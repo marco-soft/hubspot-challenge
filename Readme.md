@@ -1,7 +1,7 @@
 # Hubspot challenger in WP
 
 Here is a wordpress site that uses a hubsport form integration. If you want to watch a live demo, you can in this link:
-http://hubspotchallenge.jessicaviajes.esy.es
+http://hubspotchallenge.jessicaviajes.esy.es/challenge/
 
 ## Installation
 
