@@ -55,6 +55,13 @@ with others.
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&display=swap');
 
+@font-face {
+	font-family: 'nameofnewfont';
+	src: url("/fonts/Lato-Regular.ttf") format("ttf"),
+	font-weight: normal;
+	font-style: normal;
+}
+
 
 html,
 body {
