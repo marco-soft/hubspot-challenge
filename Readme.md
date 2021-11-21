@@ -9,7 +9,7 @@ First at all, you will need an environment for php 7.4.21 support and mysql. You
 
 - Download this repo at the folder location that you will host your site.
 - Create an empty database (it should be utf8_general_ci) who will be used to store the data for the wordpress site.
-- In your database run the script that is in /extras/script.sql in the repo you have downloaded.
+- In your database run the script that hosted /extras/script.sql.
 - Edit the /wp-config.php file and replace the credentials with those from your database (DB_NAME, DB_USER, DB_PASSWORD).
 ```sh
 /** The name of the database for WordPress */
